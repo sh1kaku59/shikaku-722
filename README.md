@@ -9,4 +9,3 @@ NFT cho phép chứng minh tính chủ quyền, độc nhất và hiếm hoi c�
 NFT đã tạo ra cú hích cho việc mua bán, trao đổi và sưu tầm các tác phẩm nghệ thuật số, cũng như tạo ra một phương thức mới để xác minh và ghi nhận sự sở hữu của một tài sản kỹ thuật số.
 
 
-![screenshot](https://github.com/sh1kaku59/shikaku-722/assets/124809403/82cc42a9-be7e-499a-9980-e71741a3816e)
